@@ -1,4 +1,4 @@
-# Fast Single Image Super-Resolution Using a New Analytical Soltion for $l_2-l_2$ Problems | Computer Vision
+# Fast Single Image Super-Resolution Using a New Analytical Solution for $l_2-l_2$ Problems | Computer Vision
 
 Centrale Lille | [Anas ESSOUNAINI][anas-email] | [Ali MOURTADA][ali-email]
 
