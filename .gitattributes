@@ -72,6 +72,11 @@
 # Text files where line endings should be preserved
 *.patch    -text
 
+documents/* linguist-vendored
+prototype notebooks/* linguist-vendored
+images/* linguist-vendored
+
+
 #
 # Exclude files from exporting
 #
@@ -105,7 +110,11 @@
 # Jupyter notebook
 *.ipynb  text
 
+documents/* linguist-vendored
+prototype notebooks/* linguist-vendored
+images/* linguist-vendored
+
 # Note: .db, .p, and .pkl files are associated
 # with the python modules ``pickle``, ``dbm.*``,
 # ``shelve``, ``marshal``, ``anydbm``, & ``bsddb``
-# (among others).
+# (among others)
