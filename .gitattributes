@@ -23,7 +23,7 @@
 # Jupyter notebook
 *.ipynb  text
 
-*.rb linguist-language=python
+*.rb linguist-language=Python
 
 # Note: .db, .p, and .pkl files are associated
 # with the python modules ``pickle``, ``dbm.*``,
