@@ -108,7 +108,7 @@ images/* linguist-vendored
 *.pyo    binary
 
 # Jupyter notebook
-*.ipynb  text diff=python
+*.ipynb 
 
 
 
