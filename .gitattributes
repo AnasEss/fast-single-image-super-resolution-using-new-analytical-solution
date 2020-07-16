@@ -108,11 +108,9 @@ images/* linguist-vendored
 *.pyo    binary
 
 # Jupyter notebook
-*.ipynb  text
+*.ipynb  text diff=python
 
-documents/* linguist-vendored
-prototype notebooks/* linguist-vendored
-images/* linguist-vendored
+
 
 # Note: .db, .p, and .pkl files are associated
 # with the python modules ``pickle``, ``dbm.*``,
