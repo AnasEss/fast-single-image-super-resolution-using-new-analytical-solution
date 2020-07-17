@@ -108,10 +108,10 @@ images/* linguist-vendored
 *.pyo    binary
 
 # Jupyter notebook
-*.ipynb 
+#*.ipynb 
 
 
-*.ipynb linguist-language=python
+*.ipynb linguist-language=Python
 
 # Note: .db, .p, and .pkl files are associated
 # with the python modules ``pickle``, ``dbm.*``,
