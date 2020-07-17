@@ -1,4 +1,4 @@
-# Fast Single Image Super-Resolution Using a New Analytical Solution for <img src="https://latex.codecogs.com/gif.latex? l_2-l_2 " />  Problems | Computer Vision
+# Fast Single Image Super-Resolution Using a New Analytical Solution for <a href="https://www.codecogs.com/eqnedit.php?latex=l_{2}&space;-&space;l_{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?l_{2}&space;-&space;l_{2}" title="l_{2} - l_{2}" /></a>  Problems | Computer Vision
 
 Centrale Lille | [Anas ESSOUNAINI][anas-email] | [Ali MOURTADA][ali-email]
 
