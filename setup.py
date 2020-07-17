@@ -18,7 +18,7 @@ setup(
         "Programming Language :: Python :: 3",
         "Operating System :: OS Independent",
     ],
-    url="https://github.com/AnasEss/super-resolution",
+    url="https://github.com/AnasEss/fast-single-image-super-resolution-using-new-analytical-solution",
     author="Anas ESSOUNAINI, Ali MOURTADA",
     author_email="essounaini97@gmail.com, mourtada.ali1997@gmail.com ",
     keywords="computer vision - image processing - super resolution ",

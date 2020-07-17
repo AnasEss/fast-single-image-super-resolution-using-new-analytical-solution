@@ -6,7 +6,7 @@ Centrale Lille | [Anas ESSOUNAINI][anas-email] | [Ali MOURTADA][ali-email]
 
 ## Description
 
-This project aims to implement the algorithms described in the paper [Fast Single Image Super-Resolution Using a New Analytical Soltion for $l_2-l_2$ Problems](documents/paper_fast_super_resolution.pdf) in order to create __high resolution__ images from __low resolution__ ones. We were highly inspired by the authors' source code in `matlab`.
+This project aims to implement the algorithms described in the paper [Fast Single Image Super-Resolution Using a New Analytical Soltion for Problems](documents/paper_fast_super_resolution.pdf) in order to create __high resolution__ images from __low resolution__ ones.
 
 ## Repository Structure 
 
@@ -23,6 +23,10 @@ This repository consists in several directories with specific purposes:
 - `prototype notebooks`: preliminary notebook for the project.
 - `images`: images on which we apply high resolution algorithms.
 - `test_package`: test of the algorithm of a picture (lena for instance)
+
+---
+Please contact us [Anas ESSOUNAINI][anas-email], [Ali MOURTADA][ali-email] for any information, feedback or questions.
+
 
 
 
