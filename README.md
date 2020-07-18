@@ -1,6 +1,6 @@
 # Fast Single Image Super-Resolution Using a New Analytical Solution for <a href="https://www.codecogs.com/eqnedit.php?latex=l_{2}&space;-&space;l_{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?l_{2}&space;-&space;l_{2}" title="l_{2} - l_{2}" /></a>  Problems | Computer Vision
 
-Centrale Lille | [Anas ESSOUNAINI](https://www.linkedin.com/in/anas-essounaini-b7514014a/) |  [Ali MOURTADA](https://www.linkedin.com/in/ali-mourtada-57714214a/)
+Centrale Lille | [Anas ESSOUNAINI](https://www.linkedin.com/in/anas-essounaini-b7514014a/) |  [Ali MOURTADA](https://www.linkedin.com/in/ali-mourtada-57714214a/) | [Imad AOUALI](https://www.linkedin.com/in/imad-aouali/)
 
 ***
 
