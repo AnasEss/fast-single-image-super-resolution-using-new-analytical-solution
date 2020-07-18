@@ -1,8 +1,6 @@
 # Fast Single Image Super-Resolution Using a New Analytical Solution for <a href="https://www.codecogs.com/eqnedit.php?latex=l_{2}&space;-&space;l_{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?l_{2}&space;-&space;l_{2}" title="l_{2} - l_{2}" /></a>  Problems | Computer Vision
 
-Centrale Lille | [Anas ESSOUNAINI][anas-email] | [Ali MOURTADA][ali-email]
-
-
+Centrale Lille | [Anas ESSOUNAINI](https://www.linkedin.com/in/anas-essounaini-b7514014a/) |  [Ali MOURTADA](https://www.linkedin.com/in/ali-mourtada-57714214a/)
 
 ***
 
@@ -27,7 +25,7 @@ This repository consists in several directories with specific purposes:
 - `test_package`: test of the algorithm of a picture (lena for instance)
 
 ---
-Please contact us [Anas ESSOUNAINI][anas-email], [Ali MOURTADA][ali-email] for any information, feedback or questions.
+For any information, feedback or questions, please [contact us][anas-email]
 
 
 
