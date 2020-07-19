@@ -6,7 +6,7 @@ Centrale Lille | [Anas ESSOUNAINI](https://www.linkedin.com/in/anas-essounaini-b
 
 ## Description
 
-This project aims to implement the algorithms described in the paper [Fast Single Image Super-Resolution Using a New Analytical Soltion for Problems](documents/paper_fast_super_resolution.pdf) in order to create __high resolution__ images from __low resolution__ ones.
+This project aims to implement the algorithms described in the paper [Fast Single Image Super-Resolution Using a New Analytical Soltion for Problems](documents/paper_fast_super_resolution.pdf) in order to create __high resolution__ images from __low resolution__ ones. We have been able to reproduce the paper's results.
 
 ## Repository Structure 
 
@@ -22,7 +22,7 @@ This repository consists in several directories with specific purposes:
   3. `iterative`: implementation of ADMM algorithm
 - `prototype notebooks`: preliminary notebook for the project.
 - `images`: images on which we apply high resolution algorithms.
-- `test_package`: test of the algorithm of a picture (lena for instance)
+- `test_package`: test of the algorithm on a picture (lena for instance)
 
 ---
 For any information, feedback or questions, please [contact us][anas-email]
