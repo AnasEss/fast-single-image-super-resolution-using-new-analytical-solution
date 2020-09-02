@@ -11,7 +11,7 @@ from image_super_resolution.utils import *
 
 
 def HXconv(x, B):
-    """[summary]
+    """returns the blurred image and other objects
 
     Args:
         x (np.array): High resolution image
@@ -40,7 +40,7 @@ def HXconv(x, B):
 
 
 def INVLS(FB, FBC, F2B, FR, tau, Nb, nr, nc):
-    """[summary]
+    """computes HR image
 
     Args:
         FB (np.array): Fourier transform of the blurring kernel B 
