@@ -1,4 +1,19 @@
-#%%
+##################################################################################
+#                            Author: Anas ESSOUNAINI                             #
+#                            File Name: main_admm.py                             #
+#                     Creation Date: July 15, 2020 08:56 PM                      #
+#                    Last Updated: November 17, 2020 03:17 AM                    #
+#                            Source Language: python                             #
+#          Repository: https://github.com/AnasEss/super-resolution.git           #
+#                                                                                #
+#                            --- Code Description ---                            #
+#                           analytical algorithm test                            #
+##################################################################################
+
+################################################################################
+# Packages
+################################################################################
+
 import matplotlib.pyplot as plt
 from skimage import io
 import os
@@ -6,9 +21,16 @@ from image_super_resolution.analytical import *
 from image_super_resolution.utils import gauss2D_Kernel, blockMM
 from image_super_resolution.iterative import *
 
+################################################################################
+# General variables
+################################################################################
+
 PATH = r'C:/Users/essou/Desktop/my_projects/image-super-resolution/images/'
 B = gauss2D_Kernel(shape=(20, 20), sigma=3)
 
+################################################################################
+# main : test of Analytical algorithm
+################################################################################
 
 def main(img_path, gaussion_kernel=B):
     refl = io.imread(img_path)
@@ -56,4 +78,3 @@ if __name__ == "__main__":
     main(img_path)
 
 
-# %%

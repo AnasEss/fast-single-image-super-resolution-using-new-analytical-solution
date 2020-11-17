@@ -1,9 +1,27 @@
+##################################################################################
+#                            Author: Anas ESSOUNAINI                             #
+#                            File Name: iterative.py                             #
+#                     Creation Date: July 15, 2020 07:20 PM                      #
+#                    Last Updated: November 17, 2020 03:15 AM                    #
+#                            Source Language: python                             #
+#          Repository: https://github.com/AnasEss/super-resolution.git           #
+#                                                                                #
+#                            --- Code Description ---                            #
+#                                 admm algorithm                                 #
+##################################################################################
+
+################################################################################
+# Packages
+################################################################################
 import matplotlib.pyplot as plt
 from skimage import io
 import os
 from image_super_resolution.analytical import *
 from image_super_resolution.utils import gauss2D_Kernel, blockMM
 
+################################################################################
+# ADMM algorithm functions
+################################################################################
 
 def admm(base_image, X, FB, y, xp, dr, dc, STy, FBC, F2B, tolA=1e-4, mu=0.01, tau=2e-3, maxiter=100, plot_result=True):
     """ admm iterative algorithm

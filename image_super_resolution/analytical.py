@@ -1,3 +1,19 @@
+##################################################################################
+#                            Author: Anas ESSOUNAINI                             #
+#                            File Name: analytical.py                            #
+#                     Creation Date: July 15, 2020 06:08 PM                      #
+#                    Last Updated: November 17, 2020 03:15 AM                    #
+#                            Source Language: python                             #
+#          Repository: https://github.com/AnasEss/super-resolution.git           #
+#                                                                                #
+#                            --- Code Description ---                            #
+#                              analytical algorithm                              #
+##################################################################################
+
+
+################################################################################
+# Packages
+################################################################################
 import numpy as np
 from numpy.fft import fft, ifft, fftshift, fft2, ifft2
 from scipy.ndimage import gaussian_filter
@@ -9,6 +25,9 @@ import matplotlib.pyplot as plt
 from time import time
 from image_super_resolution.utils import *
 
+################################################################################
+# Analytical algorithm functions
+################################################################################
 
 def HXconv(x, B):
     """returns the blurred image and other objects

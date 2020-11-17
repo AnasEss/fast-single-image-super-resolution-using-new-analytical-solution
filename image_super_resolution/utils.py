@@ -1,3 +1,19 @@
+##################################################################################
+#                            Author: Anas ESSOUNAINI                             #
+#                              File Name: utils.py                               #
+#                     Creation Date: July 15, 2020 05:54 PM                      #
+#                    Last Updated: November 17, 2020 03:16 AM                    #
+#                            Source Language: python                             #
+#          Repository: https://github.com/AnasEss/super-resolution.git           #
+#                                                                                #
+#                            --- Code Description ---                            #
+#                                  utils module                                  #
+##################################################################################
+
+################################################################################
+# Packages
+################################################################################
+
 import numpy as np
 from numpy.fft import fft, ifft, fftshift, fft2, ifft2
 from scipy.ndimage import gaussian_filter
@@ -8,6 +24,9 @@ from skimage.color import rgb2gray
 import matplotlib.pyplot as plt
 from time import time
 
+################################################################################
+# Utils functions
+################################################################################
 
 def gauss2D_Kernel(shape=(3, 3), sigma=0.5):
     """creates a gaussian blurring kernel
